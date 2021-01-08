@@ -1,1 +1,1 @@
-# tmp_cluster_hls
+# Placeholder for LDMX clustering HLS
